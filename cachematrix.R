@@ -1,7 +1,12 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## This function creates a special matrix, which is a list containing a function
+## to do the following:
+## - set the values of the matrix
+## - get the values of the matrix
+## - set the value of the inverse
+## - get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   
